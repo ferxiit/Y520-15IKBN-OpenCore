@@ -7,12 +7,12 @@
 
 > ❓ If you don't know how to use this EFI, please refer to this [guide](https://dortania.github.io/OpenCore-Install-Guide/)<br>
 
-> ⚠️ If you want to use this EFI with your Apple ID, please refer to this [guide](https://youtu.be/JtYAAjgniIc) (but generate serial for MacBookPro14,3 not MacPro6,1)
+> ⚠️ If you want to use this EFI with your Apple ID, please refer to this [guide](https://youtu.be/JtYAAjgniIc) (but generate serial for MacBookPro14,3 not MacPro6,1) to avoid any problems
 
 ## ☑️ Tested versions
 | macOS | OpenCore | Works? | EFI |
 | :---: | :---: | :---: | :---: |
-| Monterey 12.6 | 0.8.5 | ✅ | [Download]() | 
+| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/tag/monterey) | 
 
 ## 🔘 Status
 | Feature | Works? | Notes |
