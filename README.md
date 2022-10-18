@@ -12,7 +12,7 @@
 ## ☑️ Tested versions
 | macOS | OpenCore | Works? | EFI |
 | :---: | :---: | :---: | :---: |
-| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/tag/monterey) | 
+| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | 
 
 ## 🔘 Status
 | Feature | Works? | Notes |
