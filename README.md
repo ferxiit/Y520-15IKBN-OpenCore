@@ -1,14 +1,18 @@
 # Y520-15IKBN-OpenCore
-### **Ready-to-use OpenCore 0.8.5 EFI for Lenovo Legion Y520-15IKBN**
+<p align="center">
+<b>Ready-to-use OpenCore 0.8.5 EFI for Lenovo Legion Y520-15IKBN</b>
+</p>
+
+![macOS Monterey 12.6 Screenshot](img/monterey12-6.png)
 
 > ❓ If you don't know how to use this EFI, please refer to this [guide](https://dortania.github.io/OpenCore-Install-Guide/)<br>
 
 > ⚠️ If you want to use this EFI with your Apple ID, please refer to this [guide](https://youtu.be/JtYAAjgniIc) (but generate serial for MacBookPro14,3 not MacPro6,1)
 
 ## ☑️ Tested versions
-| Version | Works? | EFI |
-| :---: | :---: | :---: |
-| **macOS Monterey 12.6** | ✅ | [Download]() | 
+| macOS | OpenCore | Works? | EFI |
+| :---: | :---: | :---: | :---: |
+| Monterey 12.6 | 0.8.5 | ✅ | [Download]() | 
 
 ## 🔘 Status
 | Feature | Works? | Notes |
