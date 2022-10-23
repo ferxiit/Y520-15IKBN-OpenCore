@@ -9,10 +9,12 @@
 
 > ⚠️ If you want to use this EFI with your Apple ID, please refer to this [guide](https://youtu.be/JtYAAjgniIc) (but generate serial for MacBookPro14,3 not MacPro6,1) to avoid any problems
 
+> ⚠️ If you have black screen while booting with this EFI, download **Black Screen Fix** and try again
+
 ## ☑️ Tested versions
-| macOS | OpenCore | Works? | EFI |
-| :---: | :---: | :---: | :---: |
-| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | 
+| macOS | OpenCore | Works? | EFI | Black Screen Fix |
+| :---: | :---: | :---: | :---: | :---: |
+| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | [Download]() | 
 
 ## 🔘 Status
 | Feature | Works? | Notes |
