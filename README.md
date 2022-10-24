@@ -3,7 +3,7 @@
 <b>Ready-to-use OpenCore 0.8.5 EFI for Lenovo Legion Y520-15IKBN</b>
 </p>
 
-![macOS Monterey 12.6 Screenshot](img/monterey12-6.png)
+![macOS Ventura 13 Screenshot](img/ventura13.png)
 
 > ❓ If you don't know how to use this EFI, please refer to this [guide](https://dortania.github.io/OpenCore-Install-Guide/)<br>
 
@@ -12,6 +12,7 @@
 ## ☑️ Tested versions
 | macOS | OpenCore | Works? | EFI |
 | :---: | :---: | :---: | :---: |
+| Ventura 13 RC2 | 0.8.5 | ✅ | [Download]() |
 | Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | 
 
 ## 🔘 Status
@@ -27,7 +28,7 @@
 | **Build-in keyboard** | ✅ | - |
 | **Trackpad** | 🔶<br>Partially | Physical buttons doesn't work and you need to<br>enable "**Tap to click**" in System Preferences
 | **USB 2, USB 3 & USB-C** | ✅ | - |
-| **Sleep** | 🔶<br>Partially | When laptop wakes up from sleep,<br>external display stops working and you need to<br>disconnect and reconnect the cable |
+| **Sleep** | ✅| - |
 | **FileVault** | ✅ | - |
 | **Battery percentage** | ✅ | - |
 | **Nvidia GPU** | ❌ | - |

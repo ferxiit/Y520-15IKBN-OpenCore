@@ -1345,7 +1345,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-novht keepsyms=1 debug=0x100 alcid=28 agdpmod=vit9696</string>
+				<string>-novht keepsyms=1 debug=0x100 alcid=28 agdpmod=vit9696 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
