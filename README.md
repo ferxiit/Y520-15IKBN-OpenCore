@@ -23,11 +23,11 @@
 | **Audio** | ✅ | - |
 | **Microphone** | ✅ | - |
 | **Webcam** | ✅ | - |
-| **External display via HDMI** | ✅ | It works, but a bug can happen (see ***Sleep***) |
+| **External display via HDMI** | ✅ | - |
 | **Build-in keyboard** | ✅ | - |
 | **Trackpad** | 🔶<br>Partially | Physical buttons doesn't work and you need to<br>enable "**Tap to click**" in System Preferences
 | **USB 2, USB 3 & USB-C** | ✅ | - |
-| **Sleep** | 🔶<br>Partially | When laptop wakes up from sleep,<br>external display stops working and you need to<br>disconnect and reconnect the cable |
+| **Sleep** | ✅ | - |
 | **FileVault** | ✅ | - |
 | **Battery percentage** | ✅ | - |
 | **Nvidia GPU** | ❌ | - |
