@@ -7,13 +7,15 @@
 
 > ❓ If you don't know how to use this EFI, please refer to this [guide](https://dortania.github.io/OpenCore-Install-Guide/)<br>
 
-> ⚠️ If you want to use this EFI with your Apple ID, please refer to this [guide](https://youtu.be/JtYAAjgniIc) (but generate serial for MacBookPro14,3 not MacPro6,1) to avoid any problems
+> ⚠️ If you want to use this EFI with your Apple ID, please refer to this [guide](https://youtu.be/JtYAAjgniIc) (but generate serial for MacBookPro14,3 not MacPro6,1) to avoid any problems<br>
+
+> ⚠️ If you have black screen while booting with this EFI, download **Black Screen Fix** and try again.
 
 ## ☑️ Tested versions
-| macOS | OpenCore | Works? | EFI |
-| :---: | :---: | :---: | :---: |
-| Ventura 13 RC2 | 0.8.5 | ✅ | [Download]() |
-| Monterey 12.6 | 0.8.5 | ✅ | [Download]() | 
+| macOS | OpenCore | Works? | EFI | Black Screen Fix |
+| :---: | :---: | :---: | :---: | :---: |
+| Ventura 13 RC2 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura/EFI_Ventura.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura/EFI_Ventura_fix.zip) |
+| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey_fix.zip) |
 
 ## 🔘 Status
 | Feature | Works? | Notes |
