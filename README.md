@@ -13,7 +13,7 @@
 | macOS | OpenCore | Works? | EFI |
 | :---: | :---: | :---: | :---: |
 | Ventura 13 RC2 | 0.8.5 | ✅ | [Download]() |
-| Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | 
+| Monterey 12.6 | 0.8.5 | ✅ | [Download]() | 
 
 ## 🔘 Status
 | Feature | Works? | Notes |
@@ -24,11 +24,11 @@
 | **Audio** | ✅ | - |
 | **Microphone** | ✅ | - |
 | **Webcam** | ✅ | - |
-| **External display via HDMI** | ✅ | It works, but a bug can happen (see ***Sleep***) |
+| **External display via HDMI** | ✅ | - |
 | **Build-in keyboard** | ✅ | - |
 | **Trackpad** | 🔶<br>Partially | Physical buttons doesn't work and you need to<br>enable "**Tap to click**" in System Preferences
 | **USB 2, USB 3 & USB-C** | ✅ | - |
-| **Sleep** | ✅| - |
+| **Sleep** | ✅ | - |
 | **FileVault** | ✅ | - |
 | **Battery percentage** | ✅ | - |
 | **Nvidia GPU** | ❌ | - |
