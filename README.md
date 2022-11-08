@@ -1,6 +1,6 @@
 # Y520-15IKBN-OpenCore
 <p align="center">
-<b>Ready-to-use OpenCore 0.8.5 EFI for Lenovo Legion Y520-15IKBN</b>
+<b>Ready-to-use OpenCore 0.8.6 EFI for Lenovo Legion Y520-15IKBN</b>
 </p>
 
 ![macOS Ventura 13.0 Screenshot](img/ventura13.png)
@@ -14,7 +14,7 @@
 ## ☑️ Tested versions
 | macOS | OpenCore | Works? | EFI | Black Screen Fix |
 | :---: | :---: | :---: | :---: | :---: |
-| Ventura 13.0 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura/EFI_Ventura.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura/EFI_Ventura_fix.zip) |
+| Ventura 13.0 | 0.8.6 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura-fix.zip) |
 | Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey_fix.zip) |
 
 ## 🔘 Status
@@ -31,7 +31,6 @@
 | **Trackpad** | 🔶<br>Partially | Physical buttons doesn't work and you need to<br>enable "**Tap to click**" in System Preferences
 | **USB 2, USB 3 & USB-C** | ✅ | - |
 | **Sleep** | ✅ | - |
-| **FileVault** | ✅ | - |
 | **Battery percentage** | ✅ | - |
 | **Nvidia GPU** | ❌ | - |
 | **SD Card Reader** | ❌ | - |
