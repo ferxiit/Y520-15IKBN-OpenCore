@@ -14,7 +14,7 @@
 ## ☑️ Tested versions
 | macOS | OpenCore | Works? | EFI | Black Screen Fix |
 | :---: | :---: | :---: | :---: | :---: |
-| Ventura 13.0 | 0.8.6 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura-fix.zip) |
+| Ventura 13.0.1 | 0.8.6 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura-fix.zip) |
 | Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey_fix.zip) |
 
 ## 🔘 Status
