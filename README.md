@@ -1,6 +1,6 @@
 # Y520-15IKBN-OpenCore
 <p align="center">
-<b>Ready-to-use OpenCore 0.8.6 EFI for Lenovo Legion Y520-15IKBN</b>
+<b>Ready-to-use OpenCore 0.8.7 EFI for Lenovo Legion Y520-15IKBN</b>
 </p>
 
 ![macOS Ventura 13.0 Screenshot](img/ventura13.png)
@@ -14,6 +14,7 @@
 ## ☑️ Tested versions
 | macOS | OpenCore | Works? | EFI | Black Screen Fix |
 | :---: | :---: | :---: | :---: | :---: |
+| Ventura 13.1 | 0.8.7 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.7/EFi_Ventura_0-8-7.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.7/EFI_Ventura_0-8-7_fix.zip) |
 | Ventura 13.0.1 | 0.8.6 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/ventura_0.8.6/EFI_Ventura-fix.zip) |
 | Monterey 12.6 | 0.8.5 | ✅ | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey.zip) | [Download](https://github.com/ferxiit/Y520-15IKBN-OpenCore/releases/download/monterey/EFI_Monterey_fix.zip) |
 
