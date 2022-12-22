@@ -29,12 +29,12 @@
 | **Webcam** | ✅ | - |
 | **External display via HDMI** | ✅ | - |
 | **Build-in keyboard** | ✅ | - |
-| **Trackpad** | 🔶<br>Partially | Physical buttons doesn't work and you need to<br>enable "**Tap to click**" in System Preferences
+| **Trackpad** | ✅ | - |
 | **USB 2, USB 3 & USB-C** | ✅ | - |
 | **Sleep** | ✅ | - |
 | **Battery percentage** | ✅ | - |
 | **Nvidia GPU** | ❌ | - |
-| **SD Card Reader** | ❌ | - |
+| **SD Card Reader** | ✅ | - |
 
 ## 🔧 BIOS Settings
 | Setting | Enabled? |
